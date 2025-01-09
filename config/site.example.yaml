@@ -48,6 +48,7 @@ i18n:
         zh-CN: "中文"
         ja: "日本語"
         vi: "Tiếng Việt"
+        de: "Deutsch"
 pattern: "squares"
 analytics:
   - id: "G-Q3MLRXCBFT"
