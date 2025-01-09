@@ -1,0 +1,61 @@
+{
+	"root": {
+		"ongoing_incidents": "Laufende Vorfälle",
+		"availability_per_component": "Verfügbarkeit pro Komponente",
+		"other_monitors": "Weitere Überwachungen",
+		"no_monitors": "Keine Überwachungen gefunden",
+		"read_doc_monitor": "Lesen Sie die Dokumentation, um Ihre erste Überwachung hinzuzufügen",
+		"here": "hier",
+		"category": "Kategorie",
+		"incident": "Vorfall",
+		"incidents": "Vorfälle",
+		"no_recent_incident": "Keine aktuellen Vorfälle",
+		"recent_incidents": "Kürzliche Vorfälle",
+		"active_incidents": "Aktive Vorfälle",
+		"no_active_incident": "Keine aktiven Vorfälle",
+		"last_x_hours": "Letzte %hours Stunden"
+	},
+	"statuses": {
+		"UP": "ONLINE",
+		"DOWN": "OFFLINE",
+		"DEGRADED": "EINGESCHRÄNKT"
+	},
+	"incident": {
+		"identified": "Identifiziert",
+		"resolved": "Behoben",
+		"maintenance": "Wartung"
+	},
+	"monitor": {
+		"share": "Teilen",
+		"badge": "Abzeichen",
+		"embed": "Einbetten",
+		"mode": "Modus",
+		"status": "Status",
+		"copied": "Kopiert",
+		"uptime": "Verfügbarkeit",
+		"theme": "Design",
+		"theme_light": "Hell",
+		"theme_dark": "Dunkel",
+		"today": "Heute",
+		"90_day": "90 Tage",
+		"share_desc": "Teilen Sie diese Überwachung über einen Link mit anderen",
+		"badge_desc": "Erhalten Sie ein SVG-Abzeichen für diese Überwachung",
+		"embed_desc": "Betten Sie diese Überwachung mithilfe von <script> oder <iframe> in Ihre App ein.",
+		"cp_link": "Link kopieren",
+		"cpd_link": "Link kopiert",
+		"cp_code": "Code kopieren",
+		"cpd_code": "Code kopiert",
+		"status_x_minute": "%status für %minute Minute",
+		"status_x_minutes": "%status für %minutes Minuten",
+		"status_x_hour_y_minute": "%status für %hours Std. und %minutes Min.",
+		"status_no_data": "Keine Daten",
+		"status_ok": "Status OK",
+		"am": "vorm.",
+		"pm": "nachm.",
+		"standard": "Standard",
+		"pinging": "Pinging",
+		"status_svg": "Live-Status",
+		"status_svg_desc": "Erhalten Sie einen LIVE-Status für diese Überwachung"
+	},
+	"numbers": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+}
