@@ -3,6 +3,7 @@ import hi from "$lib/locales/hi.json";
 import ja from "$lib/locales/ja.json";
 import vi from "$lib/locales/vi.json";
 import zhCN from "$lib/locales/zh-CN.json";
+import de from "$lib/locales/de.json";
 
 /**
  * Map of language codes to their corresponding values.
@@ -14,6 +15,7 @@ const langMap = {
 	ja,
 	vi,
 	"zh-CN": zhCN
+	"de": de
 };
 
 /**
