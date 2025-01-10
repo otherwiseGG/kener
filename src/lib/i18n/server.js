@@ -14,7 +14,7 @@ const langMap = {
 	hi,
 	ja,
 	vi,
-	"zh-CN": zhCN
+	"zh-CN": zhCN,
 	"de": de
 };
 
